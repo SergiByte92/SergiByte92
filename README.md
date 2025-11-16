@@ -29,5 +29,10 @@ Me gusta aprender tecnologías nuevas, practicar con proyectos propios y mejorar
 
 ---
 
-## Lenguajes más usados
+## 📈 Mis estadísticas de GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark)
+
+## 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiByte92&layout=compact&theme=dark)
+
 
