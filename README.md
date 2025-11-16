@@ -14,8 +14,6 @@ Me gusta aprender tecnologías nuevas, practicar con proyectos propios y mejorar
 
 ## Conozco estas tecnologías:
 
-## Conozco estas tecnologías:
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
