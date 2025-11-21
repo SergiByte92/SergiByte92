@@ -6,7 +6,7 @@ Me gusta aprender tecnologías nuevas, practicar con proyectos propios y mejorar
 ---
 
 ## Sobre mí
-- 🎓 Estudiante de DAM, trabajando en proyectos cliente–servidor, binarios y front-end.
+- 🎓 Estudiante de DAM.
 - 💻 Actualmente aprendiendo y reforzando: **C#**, **Python**.
 - 🧩 Me interesa crear software claro, modular y bien estructurado.
 
@@ -35,6 +35,7 @@ Me gusta aprender tecnologías nuevas, practicar con proyectos propios y mejorar
 ![Stats](https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark)
 
 ## 📊 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiByte92&layout=compact&theme=dark)
+![Metrics](https://metrics.lecoq.io/SergiByte92?template=classic&languages=1&languages.ignored=html,css)
+
 
 
