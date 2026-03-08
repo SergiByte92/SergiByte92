@@ -13,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="42" title="SQL"/>
 </p>
 
 **Backend y datos**
@@ -49,22 +48,19 @@
 
 ## Sobre mí
 
-- 🎓 2.º DAM — Desarrollo de Aplicaciones Multiplataforma (iFP, L'Hospitalet)
-- 💼 6 años de experiencia profesional en entornos de alta responsabilidad
-- 📖 Aplico principios de Clean Code desde el primer día — no como disciplina aprendida, sino como forma natural de trabajar
-- 🎯 Objetivo: primer rol backend con crecimiento técnico sostenido
+- 2.º DAM — Desarrollo de Aplicaciones Multiplataforma (iFP, L'Hospitalet)
+- 6 años de experiencia profesional en entornos de alta responsabilidad
+- Aplico principios de Clean Code desde el primer día — no como disciplina aprendida, sino como forma natural de trabajar
+- Objetivo: primer rol backend con crecimiento técnico sostenido
 
 ---
 
 ## Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark&hide_border=true)
-![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergiByte92&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiByte92&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Lenguajes más usados" />
 
 ---
 
-<p>
-  <a href="https://sergibyte92.github.io/sergigarcia.github.io/">🌐 Portafolio</a> ·
-  <a href="https://www.linkedin.com/in/sergi-garcia-53aa64212/">💼 LinkedIn</a> ·
-  <a href="mailto:sergigs92@gmail.com">✉️ Email</a>
-</p>
+[Portafolio](https://sergibyte92.github.io/sergigarcia.github.io/) · [LinkedIn](https://www.linkedin.com/in/sergi-garcia-53aa64212/) · [Email](mailto:sergigs92@gmail.com)
