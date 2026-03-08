@@ -57,10 +57,20 @@
 
 ## Actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SergiByte92&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=SergiByte92&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 ---
 
-[Portafolio](https://sergibyte92.github.io/sergigarcia.github.io/) · [LinkedIn](https://www.linkedin.com/in/sergi-garcia-53aa64212/) · [Email](mailto:sergigs92@gmail.com)
+<p>
+  <a href="https://sergibyte92.github.io">
+    <img src="https://img.shields.io/badge/Portafolio-0B2545?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sergi-garcia-53aa64212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sergigs92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
