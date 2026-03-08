@@ -55,11 +55,11 @@
 
 ---
 
-## Estadísticas
+## Actividad en GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiByte92&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Lenguajes más usados" />
+![GitHub Streak](https://streak-stats.demolab.com?user=SergiByte92&theme=dark&hide_border=true)
 
 ---
 
