@@ -1,44 +1,70 @@
-# Bienvenid@ a mi GitHub 😊
+# Sergi García — Backend Developer .NET Junior
 
-👋 Hola, soy Sergi, un entusiasta estudiante de Desarrollo de Aplicaciones Multiplataforma.  
-Me gusta aprender tecnologías nuevas, practicar con proyectos propios y mejorar poco a poco como desarrollador.
-
----
-
-## Sobre mí
-- 🎓 Estudiante de DAM.
-- 💻 Actualmente aprendiendo y reforzando: **C#**, **Python**.
-- 🧩 Me interesa crear software claro, modular y bien estructurado.
+> Escribo código C# / .NET pensando en quien lo lee después.  
+> Años tomando decisiones bajo presión me han enseñado a priorizar, mantener criterio y no escribir código que no pueda explicar.
 
 ---
 
-## Conozco estas tecnologías:
+## Stack técnico
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+**Lenguajes**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="42" title="SQL"/>
+</p>
+
+**Backend y datos**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>
+</p>
+
+**Sistemas y herramientas**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="42" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="42" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
 </p>
 
 ---
 
-## 📈 Mis estadísticas de GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark)
+## Proyectos destacados
 
-## 📊 Lenguajes más usados
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergiByte92&theme=github_dark)
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| [MobileRoute Control Center](https://github.com/SergiByte92/MobileRoute) | C# · .NET 8 WPF · MongoDB | Centro de control de rutas con visualización de mapas y gestión de datos operativos |
+| [ProjectVault](https://github.com/SergiByte92/ProjectVault) | C# · .NET 8 · Sockets TCP | Sistema de custodia de archivos con arquitectura cliente-servidor y concurrencia segura |
+| [ControlCenterORM](https://github.com/SergiByte92/ControlCenterORM) | C# · EF Core · PostgreSQL | Capa de persistencia relacional orientada a mantenibilidad con Code First |
+| [App Profesional](https://github.com/SergiByte92/appProfesional) | Next.js · TypeScript · Capacitor | Aplicación con informes operativos y despliegue Android desde base web compartida |
+| [Interface para LLM vs LLM](https://github.com/SergiByte92/Interface-para-LLM-vs-LLM) | Next.js · React · shadcn/ui | Chat automático entre OpenAI y Llama/Ollama con turnos controlados |
 
+---
 
+## Sobre mí
 
+- 🎓 2.º DAM — Desarrollo de Aplicaciones Multiplataforma (iFP, L'Hospitalet)
+- 💼 6 años de experiencia profesional en entornos de alta responsabilidad
+- 📖 Aplico principios de Clean Code desde el primer día — no como disciplina aprendida, sino como forma natural de trabajar
+- 🎯 Objetivo: primer rol backend con crecimiento técnico sostenido
 
+---
 
+## Estadísticas
 
+![Stats](https://github-readme-stats.vercel.app/api?username=SergiByte92&show_icons=true&theme=dark&hide_border=true)
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergiByte92&theme=github_dark)
 
+---
+
+<p>
+  <a href="https://sergibyte92.github.io/sergigarcia.github.io/">🌐 Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/sergi-garcia-53aa64212/">💼 LinkedIn</a> ·
+  <a href="mailto:sergigs92@gmail.com">✉️ Email</a>
+</p>
