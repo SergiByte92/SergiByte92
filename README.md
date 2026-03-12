@@ -1,7 +1,7 @@
 # Sergi García — Backend Developer .NET Junior
 
 > Escribo código C# / .NET pensando en quien lo lee después.  
-> Años tomando decisiones bajo presión me han enseñado a priorizar, mantener criterio y no escribir código que no pueda explicar.
+> He visto de primera mano que cuando aparecen los errores, la diferencia entre resolverlos en minutos o en horas es el orden que había antes.
 
 ---
 
